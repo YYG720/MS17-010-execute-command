@@ -2,7 +2,7 @@
 execute command and echo 
 
 
-# Script modified to ZZZ(python2)
+# Modified from zzz's script(python2)
 
 python xxx.py \<ip> \<command>
 
